@@ -1,3 +1,0 @@
-# learngit
-
-It's a git learn repository...
